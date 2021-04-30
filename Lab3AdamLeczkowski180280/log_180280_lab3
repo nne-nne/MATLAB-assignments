@@ -1,0 +1,505 @@
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('generate_network')" style="font-weight:bold">generate_network</a>
+Too many input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 13)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',13,0)">line 13</a>)
+[Edges] = generate_network(N, density, 180280);
+} 
+matlab.internal.language.introspective.errorDocCallback('generate_network')
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 34)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',34,0)">line 34</a>)
+r = M/b;
+} 
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 34)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',34,0)">line 34</a>)
+r = M/b;
+} 
+opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',34,0)
+main
+
+B =
+
+   (2,1)        1
+   (4,1)        1
+   (8,1)        1
+   (3,2)        1
+  (10,2)        1
+   (2,3)        1
+   (4,3)        1
+   (5,3)        1
+   (9,3)        1
+   (2,4)        1
+   (6,4)        1
+  (10,4)        1
+   (1,5)        1
+  (10,5)        1
+   (1,6)        1
+   (2,6)        1
+   (5,7)        1
+   (8,7)        1
+   (4,8)        1
+   (1,9)        1
+   (6,9)        1
+   (7,9)        1
+   (1,10)       1
+   (2,10)       1
+   (3,10)       1
+   (4,10)       1
+   (5,10)       1
+   (6,10)       1
+   (7,10)       1
+   (8,10)       1
+   (9,10)       1
+
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('speye')" style="font-weight:bold">speye</a>
+Please use SPEYE(N), SPEYE(M,N) or SPEYE([M,N]).
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 59)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',59,0)">line 59</a>)
+    I = speye(N);
+} 
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 37)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',37,0)">line 37</a>)
+r = M/b;
+} 
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 37)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',37,0)">line 37</a>)
+r = M/b;
+} 
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 37)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',37,0)">line 37</a>)
+r = M/b;
+} 
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 34)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',34,0)">line 34</a>)
+r = M/b;
+} 
+main
+
+B =
+
+   (2,1)        1
+   (4,1)        1
+   (7,1)        1
+   (3,2)        1
+   (4,2)        1
+   (8,2)        1
+   (5,3)        1
+   (6,3)        1
+   (3,4)        1
+   (6,4)        1
+   (8,4)        1
+  (10,4)        1
+   (7,5)        1
+   (9,5)        1
+   (1,6)        1
+   (2,6)        1
+  (10,6)        1
+   (9,7)        1
+   (2,8)        1
+  (10,8)        1
+   (4,9)        1
+   (8,9)        1
+   (1,10)       1
+   (3,10)       1
+   (8,10)       1
+
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 36)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',36,0)">line 36</a>)
+r = M/b;
+} 
+main
+
+B =
+
+   (5,1)        1
+   (8,1)        1
+   (1,2)        1
+   (3,2)        1
+   (4,2)        1
+   (5,2)        1
+   (6,2)        1
+   (7,2)        1
+   (8,2)        1
+   (9,2)        1
+  (10,2)        1
+   (1,3)        1
+   (4,3)        1
+   (9,4)        1
+   (2,5)        1
+   (8,5)        1
+   (9,6)        1
+   (8,7)        1
+   (5,8)        1
+   (6,8)        1
+  (10,8)        1
+   (4,9)        1
+   (7,9)        1
+   (8,9)        1
+  (10,9)        1
+   (3,10)       1
+   (5,10)       1
+   (6,10)       1
+   (9,10)       1
+
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 36)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',36,0)">line 36</a>)
+r = M/b;
+} 
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 34)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',34,0)">line 34</a>)
+r = M/b;
+} 
+load('zadB_180280.mat', 'b')
+load('zadB_180280.mat', 'b')
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 34)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',34,0)">line 34</a>)
+r = M/b;
+} 
+main
+
+B =
+
+   (2,1)        1
+   (3,1)        1
+   (4,1)        1
+   (5,1)        1
+   (6,1)        1
+   (7,1)        1
+   (8,1)        1
+   (9,1)        1
+  (10,1)        1
+   (1,2)        1
+   (9,2)        1
+   (9,3)        1
+   (3,4)        1
+   (5,4)        1
+   (9,4)        1
+   (1,5)        1
+   (7,5)        1
+   (3,6)        1
+   (5,6)        1
+   (7,6)        1
+   (3,7)        1
+   (9,7)        1
+   (2,8)        1
+   (5,8)        1
+   (6,8)        1
+   (7,8)        1
+   (1,9)        1
+   (4,9)        1
+   (5,9)        1
+   (6,9)        1
+  (10,9)        1
+   (2,10)       1
+   (3,10)       1
+   (6,10)       1
+   (7,10)       1
+
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('speye')" style="font-weight:bold">speye</a>
+Please use SPEYE(N), SPEYE(M,N) or SPEYE([M,N]).
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 57)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',57,0)">line 57</a>)
+    I = speye(N);
+} 
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 34)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',34,0)">line 34</a>)
+r = M/b;
+} 
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('speye')" style="font-weight:bold">speye</a>
+Please use SPEYE(N), SPEYE(M,N) or SPEYE([M,N]).
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 54)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',54,0)">line 54</a>)
+    I = speye(N);
+} 
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('speye')" style="font-weight:bold">speye</a>
+Please use SPEYE(N), SPEYE(M,N) or SPEYE([M,N]).
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 52)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',52,0)">line 52</a>)
+    I = speye(N);
+} 
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('sparse')" style="font-weight:bold">sparse</a>
+Sparse matrix sizes must be non-negative integers less than MAXSIZE as
+defined by COMPUTER.  Use HELP COMPUTER for more details.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 53)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',53,0)">line 53</a>)
+    B = sparse(Edges(2,:), Edges(1,:), 1, N, N);
+} 
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('zeros')" style="font-weight:bold">zeros</a>
+Size inputs must be scalar.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 57)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',57,0)">line 57</a>)
+    b = zeros(N,1);
+} 
+main
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m', 62)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',62,0)">line 62</a>)
+    r = M/b;
+} 
+main
+<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',63,1)">63  </a>    czas_Gauss(i) = toc;
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\main.m',64,1)">64  </a>    czas_Gauss(i) = toc;
+if system_dependent('IsDebugMode')==1, dbquit; end
+zadA
+zabB
+zadC
+{Unrecognized function or variable 'zadB'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('zadC', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadC.m', 2)" style="font-weight:bold">zadC</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadC.m',2,0)">line 2</a>)
+zadB;
+} 
+zadC
+load('zadC_180280.mat')
+zadD
+zadE
+{Unrecognized function or variable 'resy'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('zadE', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadE.m', 52)" style="font-weight:bold">zadE</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadE.m',52,0)">line 52</a>)
+semilogy(resy(2, 1:iteration_count(2)));
+} 
+zadE
+zadF_rozszerzone
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('speye')" style="font-weight:bold">speye</a>
+Please use SPEYE(N), SPEYE(M,N) or SPEYE([M,N]).
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('zadF_rozszerzone', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadF_rozszerzone.m', 14)" style="font-weight:bold">zadF_rozszerzone</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadF_rozszerzone.m',14,0)">line 14</a>)
+    I = speye(N);
+} 
+zadD
+zadE
+zadF_rozszerzone
+
+iloraz_czasow =
+
+    0.0744
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+Incorrect dimensions for matrix multiplication. Check that the number of
+columns in the first matrix matches the number of rows in the second matrix.
+To perform elementwise multiplication, use '.*'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('zadF_rozszerzone', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadF_rozszerzone.m', 36)" style="font-weight:bold">zadF_rozszerzone</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadF_rozszerzone.m',36,0)">line 36</a>)
+            r = (-(D + L)) \ (U*r) + (D + L)\b;
+
+<a href="matlab:helpview('matlab','error_innerdim')" style="font-weight:bold">Related documentation</a>
+} 
+zadF_rozszerzone
+
+iloraz_czasow =
+
+    0.0869
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+Incorrect dimensions for matrix multiplication. Check that the number of
+columns in the first matrix matches the number of rows in the second
+matrix. To perform elementwise multiplication, use '.*'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('zadF_rozszerzone', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadF_rozszerzone.m', 36)" style="font-weight:bold">zadF_rozszerzone</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadF_rozszerzone.m',36,0)">line 36</a>)
+            r = (-(D + L)) \ (U*r) + (D + L)\b;
+
+<a href="matlab:helpview('matlab','error_innerdim')" style="font-weight:bold">Related documentation</a>
+} 
+zadF_rozszerzone
+
+iloraz_czasow =
+
+   20.9579
+
+
+iloraz_czasow =
+
+   20.9579   56.5611
+
+
+iloraz_czasow =
+
+   20.9579   56.5611  194.9961
+
+
+iloraz_czasow =
+
+   20.9579   56.5611  194.9961  331.2222
+
+
+iloraz_czasow =
+
+   1.0e+03 *
+
+    0.0210    0.0566    0.1950    0.3312    8.3279
+
+zadF_rozszerzone
+
+iloraz_czasow =
+
+   15.4701
+
+
+iloraz_czasow =
+
+   15.4701   57.2681
+
+
+iloraz_czasow =
+
+   15.4701   57.2681  199.2203
+
+
+iloraz_czasow =
+
+   15.4701   57.2681  199.2203  377.7818
+
+
+iloraz_czasow =
+
+   1.0e+03 *
+
+    0.0155    0.0573    0.1992    0.3778    6.4357
+
+zadG
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'Dane_Filtr_Dielektryczny_lab3_MN.mat'. No such file
+or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('zadG', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadG.m', 10)" style="font-weight:bold">zadG</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadG.m',10,0)">line 10</a>)
+load("Dane_Filtr_Dielektryczny_lab3_MN.mat")
+} 
+zadG
+{Unrecognized function or variable 'columns'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('zadG', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadG.m', 21)" style="font-weight:bold">zadG</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadG.m',21,0)">line 21</a>)
+r = ones(columns(M),1);
+} 
+zadG
+{Unrecognized function or variable 'columns'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('zadG', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadG.m', 24)" style="font-weight:bold">zadG</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadG.m',24,0)">line 24</a>)
+r = ones(columns(M), 1);
+} 
+zadG
+{Unrecognized function or variable 'columns'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('zadG', 'C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadG.m', 24)" style="font-weight:bold">zadG</a> (<a href="matlab: opentoline('C:\Users\adaml\MATLAB\Projects\Lab3AdamLeczkowski180280\zadG.m',24,0)">line 24</a>)
+r = ones(columns(M), 1);
+} 
+zadG

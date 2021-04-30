@@ -1,0 +1,16 @@
+Zero found in the interval [5.66059, 6.33941]
+
+Ten komunikat MATLABa będący odpowiedzią na polecenie 'fzero(@tan, 6, options)'
+pokrywa przedział, w którym faktycznie znajduje się miejsce zerowe funkcji tangens, ok.6.2831855
+
+Natomiast w odpowiedzi na 'fzero(@tan, 4.5, options)'
+MATLAB znajduje przedział, w którym funkcja tangens przechodzi z -INF do +INF.
+Komunikuje to w sposób następujący:
+
+Current point x may be near a singular point. The interval [4.24544, 4.75456] 
+reduced to the requested tolerance and the function changes sign in the interval,
+but f(x) increased in magnitude as the interval reduced.
+
+Przedział jest dostatecznie wąski, funkcja zmienia znak, więc wszystko wskazywałoby na to, że znaleźliśmy miejsce zerowe.
+Jednak fakt, że im bardziej zawężamy przedział, tym bardziej odległe są wartości funkcji na jego końcach,
+nakazuje uważać to miejsce za punkt osobliwy niebędący miejscem zerowym

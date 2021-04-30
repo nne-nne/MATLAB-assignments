@@ -1,0 +1,8 @@
+Najszybszą metodą okazała się metoda Gaussa-Seidla,
+jako jedyna nie przekroczyła 0.5s nawet dla N=1000.
+
+Była ok.2 razy szybsza niż metoda Jacobi'ego.
+
+Obie ww. metody są kilkunastokrotnie szybsze niż metoda bezpośrednia.
+
+Metoda Gaussa-Seidla potrzebuje ok.2 razy mniej iteracji.
